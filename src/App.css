@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700&display=swap');
+
+body{
+  font-family: 'Kanit', sans-serif;
+}
+
+.card{
+  border-radius: 20px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-yw{
+  float: right;
+  border: none;
+  padding: 8px 30px;
+  background-color: rgb(250, 226, 118);
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+.modal-dialog .tty{
+  position:fixed;
+  top:auto;
+  right:auto;
+  left:auto;
+  bottom:0;
+}  
